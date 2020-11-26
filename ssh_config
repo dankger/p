@@ -1,0 +1,12 @@
+#handy-scripts
+Host github.com-activehacker
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+ 
+#desktop
+Host github.com-jexchan
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/desktop_git_key
+
